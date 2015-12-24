@@ -10,3 +10,13 @@ and you do not need another app to sync your ideas with your code. Take a look a
 *   `Issues` is a great tool for tackle ideas. Create an issue, tag it with an idea, use it to set up steps to handle subtasks, 
 take notes, add comments. Close it when it is done.
 
+
+#### Ideas
+*   [TODO(:thumbsup:)](#todo)
+  *   [Practice Python with interesting tasks](#python-tasks)
+
+  
+#### TODO 
+###### Python Tasks
+*   Read [this repo](https://github.com/Show-Me-the-Code/show-me-the-code), pick some interesting tasks and implement them in Python. Will be fun!
+
